@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSA_BigInt", "RSA_BigInt\rsa_last.vcxproj", "{1F55AF50-5847-4F2D-BF01-A0F6A5A3D33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F55AF50-5847-4F2D-BF01-A0F6A5A3D33F}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F55AF50-5847-4F2D-BF01-A0F6A5A3D33F}.Debug|x86.Build.0 = Debug|Win32
+		{1F55AF50-5847-4F2D-BF01-A0F6A5A3D33F}.Release|x86.ActiveCfg = Release|Win32
+		{1F55AF50-5847-4F2D-BF01-A0F6A5A3D33F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB7A143-EB76-4DF1-96FE-C348613E0589}
+	EndGlobalSection
+EndGlobal
